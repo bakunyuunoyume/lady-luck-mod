@@ -3,7 +3,7 @@
 
  (Note: This mod does not contain any NSFW content!)
 
-![Gamer Girl, Swim Ring, NSFW Joker, Cheeseburger, No Pants Club]([http://url/to/img.png](https://media.discordapp.net/attachments/928010953549824100/1328042296960352276/image.png?ex=67854345&is=6783f1c5&hm=dba7093a295ff7c5521caa38cffd6ed2db652f35b0f8396e3052bc31b9183a45&=&format=webp&quality=lossless&width=605&height=209))
+![Gamer Girl, Swim Ring, NSFW Joker, Cheeseburger, No Pants Club](https://media.discordapp.net/attachments/928010953549824100/1328042296960352276/image.png?ex=67854345&is=6783f1c5&hm=dba7093a295ff7c5521caa38cffd6ed2db652f35b0f8396e3052bc31b9183a45&=&format=webp&quality=lossless&width=605&height=209)
  
  Requires Steamodded version 1.0.0 ALPHA-1312a or newer
  
