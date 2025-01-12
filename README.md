@@ -1,5 +1,5 @@
 # lady-luck-mod
- A set of pretty Joker ladies~
+ A Balatro mod that adds a set of pretty Joker ladies~
 
  (Note: This mod does not contain any NSFW content!)
  
